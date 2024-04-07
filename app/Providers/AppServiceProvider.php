@@ -13,7 +13,6 @@ class AppServiceProvider extends ServiceProvider
      */
     public function register(): void
     {
-        //
         FilePreviewController::$middleware = ['web', 'universal', InitializeTenancyByDomain::class];
     }
 
