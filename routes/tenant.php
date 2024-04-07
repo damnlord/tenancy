@@ -26,7 +26,7 @@ Route::middleware([
     PreventAccessFromCentralDomains::class,
 ])->group(function () {
     Route::get('/', function () {
-        return view('welcome');
+        return view('pages.tenant.welcome');
     });
 });
 
@@ -39,11 +39,6 @@ Route::middleware([
     PreventAccessFromCentralDomains::class,
 ])->name('tenant.')->group(function () {
     Route::get('/dashboard', function () {
-
-        mkdir('/var/www/html/storage/test', 0777, true);
-        mkdir('/var/www/html/storage/test/app/public', 0777, true);
-        mkdir("/var/www/html/storage/test/framework/cache", 0777, true);
-     //   dd(Storage::disk('public')->path('profile-photos/aFyDzttVadvoHLBrMRCNNHX2cSGTIaAMigglLHfK.jpg'), Storage::disk('public')->url('profile-photos/aFyDzttVadvoHLBrMRCNNHX2cSGTIaAMigglLHfK.jpg'));
         return view('pages.tenant.dashboard');
     })->name('dashboard');
 });
