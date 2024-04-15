@@ -1466,16 +1466,16 @@
         },
         {
             "name": "laravel/framework",
-            "version": "v11.2.0",
+            "version": "v11.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "a1750156b671f37cba702380107e2d22161c31e3"
+                "reference": "3b87d0767e9cbddec46480d883010ba720e50dea"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/a1750156b671f37cba702380107e2d22161c31e3",
-                "reference": "a1750156b671f37cba702380107e2d22161c31e3",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/3b87d0767e9cbddec46480d883010ba720e50dea",
+                "reference": "3b87d0767e9cbddec46480d883010ba720e50dea",
                 "shasum": ""
             },
             "require": {
@@ -1667,20 +1667,20 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "time": "2024-04-02T14:01:33+00:00"
+            "time": "2024-04-10T15:13:49+00:00"
         },
         {
             "name": "laravel/jetstream",
-            "version": "v5.0.2",
+            "version": "v5.0.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/jetstream.git",
-                "reference": "152c89b14748ff210c19567c75b58a18742b1957"
+                "reference": "dea945f708b42ecd3548b8c0ff2a914d271a26c0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/jetstream/zipball/152c89b14748ff210c19567c75b58a18742b1957",
-                "reference": "152c89b14748ff210c19567c75b58a18742b1957",
+                "url": "https://api.github.com/repos/laravel/jetstream/zipball/dea945f708b42ecd3548b8c0ff2a914d271a26c0",
+                "reference": "dea945f708b42ecd3548b8c0ff2a914d271a26c0",
                 "shasum": ""
             },
             "require": {
@@ -1734,20 +1734,20 @@
                 "issues": "https://github.com/laravel/jetstream/issues",
                 "source": "https://github.com/laravel/jetstream"
             },
-            "time": "2024-03-29T14:29:53+00:00"
+            "time": "2024-04-10T19:17:56+00:00"
         },
         {
             "name": "laravel/prompts",
-            "version": "v0.1.17",
+            "version": "v0.1.18",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/prompts.git",
-                "reference": "8ee9f87f7f9eadcbe21e9e72cd4176b2f06cd5b5"
+                "reference": "3b5e6b03f1f1175574b5a32331d99c9819da9848"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/prompts/zipball/8ee9f87f7f9eadcbe21e9e72cd4176b2f06cd5b5",
-                "reference": "8ee9f87f7f9eadcbe21e9e72cd4176b2f06cd5b5",
+                "url": "https://api.github.com/repos/laravel/prompts/zipball/3b5e6b03f1f1175574b5a32331d99c9819da9848",
+                "reference": "3b5e6b03f1f1175574b5a32331d99c9819da9848",
                 "shasum": ""
             },
             "require": {
@@ -1789,9 +1789,9 @@
             ],
             "support": {
                 "issues": "https://github.com/laravel/prompts/issues",
-                "source": "https://github.com/laravel/prompts/tree/v0.1.17"
+                "source": "https://github.com/laravel/prompts/tree/v0.1.18"
             },
-            "time": "2024-03-13T16:05:43+00:00"
+            "time": "2024-04-04T17:41:50+00:00"
         },
         {
             "name": "laravel/sanctum",
@@ -2173,16 +2173,16 @@
         },
         {
             "name": "league/flysystem",
-            "version": "3.26.0",
+            "version": "3.27.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/flysystem.git",
-                "reference": "072735c56cc0da00e10716dd90d5a7f7b40b36be"
+                "reference": "4729745b1ab737908c7d055148c9a6b3e959832f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/072735c56cc0da00e10716dd90d5a7f7b40b36be",
-                "reference": "072735c56cc0da00e10716dd90d5a7f7b40b36be",
+                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/4729745b1ab737908c7d055148c9a6b3e959832f",
+                "reference": "4729745b1ab737908c7d055148c9a6b3e959832f",
                 "shasum": ""
             },
             "require": {
@@ -2247,7 +2247,7 @@
             ],
             "support": {
                 "issues": "https://github.com/thephpleague/flysystem/issues",
-                "source": "https://github.com/thephpleague/flysystem/tree/3.26.0"
+                "source": "https://github.com/thephpleague/flysystem/tree/3.27.0"
             },
             "funding": [
                 {
@@ -2259,7 +2259,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-03-25T11:49:53+00:00"
+            "time": "2024-04-07T19:17:50+00:00"
         },
         {
             "name": "league/flysystem-local",
@@ -2599,16 +2599,16 @@
         },
         {
             "name": "monolog/monolog",
-            "version": "3.5.0",
+            "version": "3.6.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Seldaek/monolog.git",
-                "reference": "c915e2634718dbc8a4a15c61b0e62e7a44e14448"
+                "reference": "4b18b21a5527a3d5ffdac2fd35d3ab25a9597654"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/c915e2634718dbc8a4a15c61b0e62e7a44e14448",
-                "reference": "c915e2634718dbc8a4a15c61b0e62e7a44e14448",
+                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/4b18b21a5527a3d5ffdac2fd35d3ab25a9597654",
+                "reference": "4b18b21a5527a3d5ffdac2fd35d3ab25a9597654",
                 "shasum": ""
             },
             "require": {
@@ -2631,7 +2631,7 @@
                 "phpstan/phpstan": "^1.9",
                 "phpstan/phpstan-deprecation-rules": "^1.0",
                 "phpstan/phpstan-strict-rules": "^1.4",
-                "phpunit/phpunit": "^10.1",
+                "phpunit/phpunit": "^10.5.17",
                 "predis/predis": "^1.1 || ^2",
                 "ruflin/elastica": "^7",
                 "symfony/mailer": "^5.4 || ^6",
@@ -2684,7 +2684,7 @@
             ],
             "support": {
                 "issues": "https://github.com/Seldaek/monolog/issues",
-                "source": "https://github.com/Seldaek/monolog/tree/3.5.0"
+                "source": "https://github.com/Seldaek/monolog/tree/3.6.0"
             },
             "funding": [
                 {
@@ -2696,20 +2696,20 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-10-27T15:32:31+00:00"
+            "time": "2024-04-12T21:02:21+00:00"
         },
         {
             "name": "nesbot/carbon",
-            "version": "3.2.3",
+            "version": "3.2.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/briannesbitt/Carbon.git",
-                "reference": "4d599a6e2351d6b6bf21737accdfe1a4ce3fdbb1"
+                "reference": "82c28278c1c8f7b82dcdab25692237f052ffc8d8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/4d599a6e2351d6b6bf21737accdfe1a4ce3fdbb1",
-                "reference": "4d599a6e2351d6b6bf21737accdfe1a4ce3fdbb1",
+                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/82c28278c1c8f7b82dcdab25692237f052ffc8d8",
+                "reference": "82c28278c1c8f7b82dcdab25692237f052ffc8d8",
                 "shasum": ""
             },
             "require": {
@@ -2802,7 +2802,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-03-30T18:22:00+00:00"
+            "time": "2024-04-05T09:58:10+00:00"
         },
         {
             "name": "nette/schema",
@@ -4901,16 +4901,16 @@
         },
         {
             "name": "stancl/tenancy",
-            "version": "v3.8.0",
+            "version": "v3.8.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/archtechx/tenancy.git",
-                "reference": "72b1b48edde3c4cdc5899b565476778bac462955"
+                "reference": "4dab0c1870ef5731230e08cdfb5386bcfa502209"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/archtechx/tenancy/zipball/72b1b48edde3c4cdc5899b565476778bac462955",
-                "reference": "72b1b48edde3c4cdc5899b565476778bac462955",
+                "url": "https://api.github.com/repos/archtechx/tenancy/zipball/4dab0c1870ef5731230e08cdfb5386bcfa502209",
+                "reference": "4dab0c1870ef5731230e08cdfb5386bcfa502209",
                 "shasum": ""
             },
             "require": {
@@ -4968,7 +4968,7 @@
             ],
             "support": {
                 "issues": "https://github.com/archtechx/tenancy/issues",
-                "source": "https://github.com/archtechx/tenancy/tree/v3.8.0"
+                "source": "https://github.com/archtechx/tenancy/tree/v3.8.2"
             },
             "funding": [
                 {
@@ -4980,20 +4980,20 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-03-12T14:04:54+00:00"
+            "time": "2024-04-14T08:12:18+00:00"
         },
         {
             "name": "stancl/virtualcolumn",
-            "version": "v1.4.0",
+            "version": "v1.4.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/archtechx/virtualcolumn.git",
-                "reference": "7371aac2abf22b8b95718b4e904aed900d97f1e3"
+                "reference": "65f90003282c231a19367edf9692bfb6b6f23fb8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/archtechx/virtualcolumn/zipball/7371aac2abf22b8b95718b4e904aed900d97f1e3",
-                "reference": "7371aac2abf22b8b95718b4e904aed900d97f1e3",
+                "url": "https://api.github.com/repos/archtechx/virtualcolumn/zipball/65f90003282c231a19367edf9692bfb6b6f23fb8",
+                "reference": "65f90003282c231a19367edf9692bfb6b6f23fb8",
                 "shasum": ""
             },
             "require": {
@@ -5022,9 +5022,9 @@
             "description": "Eloquent virtual column.",
             "support": {
                 "issues": "https://github.com/archtechx/virtualcolumn/issues",
-                "source": "https://github.com/archtechx/virtualcolumn/tree/v1.4.0"
+                "source": "https://github.com/archtechx/virtualcolumn/tree/v1.4.1"
             },
-            "time": "2024-01-27T21:49:31+00:00"
+            "time": "2024-04-07T18:26:29+00:00"
         },
         {
             "name": "symfony/clock",
@@ -7666,16 +7666,16 @@
     "packages-dev": [
         {
             "name": "barryvdh/laravel-debugbar",
-            "version": "v3.13.3",
+            "version": "v3.13.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/barryvdh/laravel-debugbar.git",
-                "reference": "241e9bddb04ab42a04a5fe8b2b9654374c864229"
+                "reference": "00201bcd1eaf9b1d3debddcdc13c219e4835fb61"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/barryvdh/laravel-debugbar/zipball/241e9bddb04ab42a04a5fe8b2b9654374c864229",
-                "reference": "241e9bddb04ab42a04a5fe8b2b9654374c864229",
+                "url": "https://api.github.com/repos/barryvdh/laravel-debugbar/zipball/00201bcd1eaf9b1d3debddcdc13c219e4835fb61",
+                "reference": "00201bcd1eaf9b1d3debddcdc13c219e4835fb61",
                 "shasum": ""
             },
             "require": {
@@ -7734,7 +7734,7 @@
             ],
             "support": {
                 "issues": "https://github.com/barryvdh/laravel-debugbar/issues",
-                "source": "https://github.com/barryvdh/laravel-debugbar/tree/v3.13.3"
+                "source": "https://github.com/barryvdh/laravel-debugbar/tree/v3.13.4"
             },
             "funding": [
                 {
@@ -7746,7 +7746,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-04-04T02:42:49+00:00"
+            "time": "2024-04-10T09:15:45+00:00"
         },
         {
             "name": "fakerphp/faker",
@@ -8812,16 +8812,16 @@
         },
         {
             "name": "phpunit/phpunit",
-            "version": "11.0.9",
+            "version": "11.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/phpunit.git",
-                "reference": "591bbfe416400385527d5086b346b92c06de404b"
+                "reference": "51e342a0bc987e0ea8418105d0711f08ae116de3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/591bbfe416400385527d5086b346b92c06de404b",
-                "reference": "591bbfe416400385527d5086b346b92c06de404b",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/51e342a0bc987e0ea8418105d0711f08ae116de3",
+                "reference": "51e342a0bc987e0ea8418105d0711f08ae116de3",
                 "shasum": ""
             },
             "require": {
@@ -8860,7 +8860,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-main": "11.0-dev"
+                    "dev-main": "11.1-dev"
                 }
             },
             "autoload": {
@@ -8892,7 +8892,7 @@
             "support": {
                 "issues": "https://github.com/sebastianbergmann/phpunit/issues",
                 "security": "https://github.com/sebastianbergmann/phpunit/security/policy",
-                "source": "https://github.com/sebastianbergmann/phpunit/tree/11.0.9"
+                "source": "https://github.com/sebastianbergmann/phpunit/tree/11.1.2"
             },
             "funding": [
                 {
@@ -8908,7 +8908,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-03-28T10:09:42+00:00"
+            "time": "2024-04-14T07:13:56+00:00"
         },
         {
             "name": "sebastian/cli-parser",
